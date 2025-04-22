@@ -29,7 +29,7 @@ def main():
     fin = time.time()
     duracion = round(fin - inicio, 2)
 
-    # Imprimir resultados en el formato deseado
+    # Imprimir resultado
     print("-" * 50)
     print(f"Fecha de búsqueda: {fecha_actual}\n")
     print("ARCHIVO\t\t\tNRO. SERIE")
